@@ -35,6 +35,12 @@
       "css": "history",
       "code": 61914,
       "src": "fontawesome"
+    },
+    {
+      "uid": "9c2b737b16ae2c8d66b7bfd29ba5ecd8",
+      "css": "chrome",
+      "code": 59457,
+      "src": "fontelico"
     }
   ]
 }

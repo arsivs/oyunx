@@ -57,6 +57,7 @@
  
 .icon-search:before { content: '\e800'; } /* '' */
 .icon-award:before { content: '\e801'; } /* '' */
+.icon-chrome:before { content: '\e841'; } /* '' */
 .icon-gamepad:before { content: '\f11b'; } /* '' */
 .icon-history:before { content: '\f1da'; } /* '' */
 .icon-ghost:before { content: '\f2ac'; } /* '' */
